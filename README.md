@@ -9,3 +9,8 @@ They are meant to send HTTP packets through the network.
 
 ###Set up Raspberry Pi TCP server and client
 Use ZMQ req/rec pattern to send TCP packets through the network.
+
+
+Technology Out
+
+I am reaching out on behalf of eventflow 
