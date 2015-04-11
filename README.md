@@ -9,6 +9,5 @@ To compliment my business school classes, I'm building a cybersecurity lab on my
 ###Set up Raspberry Pi TCP server and client
 Use ZMQ req/rec pattern to send TCP packets through the network.
 
-###Create Wiki to document how these experiements go
-You know...it would be nice to tell people..ya know. =P 
+###Write up introduction for the Wiki. You will need 2 Raspberry Pis to create a client/server relationship for both HTTP and TCP communications. 
 
